@@ -4,7 +4,7 @@
 Bienvenido al repositorio del proyecto sobre modelos de machine learning en una base de datos publica de kagle sobre diabetes.
 
 ## Descripción
-Este repositorio contiene un conjunto de scripts donde solamente se creando tres modelos de machine learning Random Forest, SVM y un modelo de renes neuronales sequenciales ((https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
+Este repositorio contiene un conjunto de scripts donde solamente se creando tres modelos de machine learning Random Forest, SVM y un modelo de renes neuronales sequenciales ([Data Set](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
 
 ## Contenido del Repositorio
 - [Data Notebook](https://github.com/jtbigdata/AbusoSexual_linea137/blob/master/Intervenciones137.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
