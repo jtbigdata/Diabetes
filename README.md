@@ -7,7 +7,7 @@ Bienvenido al repositorio del proyecto sobre modelos de machine learning en una 
 Este repositorio contiene un conjunto de scripts donde solamente se creando tres modelos de machine learning Random Forest, SVM y un modelo de renes neuronales sequenciales ([Data Set](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
 
 ## Contenido del Repositorio
-- [Data Notebook](https://github.com/jtbigdata/AbusoSexual_linea137/blob/master/Intervenciones137.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
+- [Data Notebook]([https://github.com/jtbnb](https://github.com/jtbigdata/Diabetes/blob/main/Diabetes_ML.ipynb)): Cuaderno Jupyter con los modelos de Machine Learning.
 <!-- Agrega más elementos según sea necesario -->
 
 
